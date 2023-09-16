@@ -1,6 +1,3 @@
-https://app.rocketseat.com.br/events/nlw-ia/avancado/aula-2
-https://github.com/andreyaraujo-dev/nlw-ia-web/blob/main/src/App.tsx
-
 ## 💻 Project
 
 Application that allows you to upload videos and, through AI, automatically create eye-catching titles and descriptions with good indexing.
